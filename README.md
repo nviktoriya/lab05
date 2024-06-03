@@ -1,6 +1,7 @@
 # Laboratory Work V
 
-## Student: Nazarova Viktoriya
+## Студент
+Назарова Виктория, группа ИУ8-21
 
 ### Задание
 1. Создайте CMakeList.txt для библиотеки banking.
